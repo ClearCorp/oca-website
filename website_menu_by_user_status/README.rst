@@ -18,8 +18,7 @@ by editing the html DOM.
 
 Contributors
 ------------
-* Bruno Joliveau <bruno.joliveau@savoirfairelinux.com>
-* Jordi Riera <jordi.riera@savoirfairelinux.com>
+* David Ocampo <david.ocampo@clearcorp.co.cr>
 
 More information
 ----------------
